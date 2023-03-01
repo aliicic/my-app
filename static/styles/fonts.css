@@ -1,0 +1,18 @@
+
+
+@font-face {
+    font-family: 'shabnam';
+    src: url(../assets/fonts/Shabnam.woff);
+}
+@font-face {
+    font-family: 'shabnam-thin';
+    src: url(../assets/fonts/Shabnam-Thin.woff);
+}
+@font-face {
+    font-family: 'shabnam-light';
+    src: url(../assets/fonts/Shabnam-Light.woff);
+}
+@font-face {
+    font-family: 'shabnam-bold';
+    src: url(../assets/fonts/Shabnam-Bold.woff);
+}
